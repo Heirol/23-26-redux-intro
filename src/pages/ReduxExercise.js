@@ -297,7 +297,7 @@ const ReduxExercise = () => {
   return (
     <Container maxWidth="xxl">
       <br />
-      <h5>How to add products to the cart using Redux?</h5>
+      <h3>HOW TO ADD PRODUCTS TO THE CART USING REDUX?</h3>
       <br />
       <Grid container spacing={2}>
         <Grid item md={3} xs={12}>

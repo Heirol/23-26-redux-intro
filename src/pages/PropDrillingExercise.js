@@ -308,7 +308,7 @@ const PropDrillingExercise = () => {
     <Container>
       <br />
       <Typography p="0.5rem" variant="h6">
-        How to add products to the cart?
+        HOW TO ADD PRODUCTS TO CART?
       </Typography>
       <br />
       <RootComponent />
